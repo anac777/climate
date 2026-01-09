@@ -1,1 +1,1 @@
-# climate
+This repository contains a Python project developed specifically to demonstrate my programming skills for the job vacancy I'm applying to. The goal of this project is to showcase code practices, problem-solving ability and the practical use of Python in a structured and readable way. It is based on climate data and divided in two parts: the first, a comparison between data published by the ECB and Banco de Portugal; the second, a comparison of a set of series published by the ECB.
